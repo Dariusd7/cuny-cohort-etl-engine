@@ -4,7 +4,7 @@ This database automation module models an enterprise **Student Information Syste
 # CUNY Cohort Data Ingestion Engine & Compliance Ledger
 
 ## 🔗 Live Click-to-Run Environment
-👉 **[Run the PostgreSQL Engine Directly in Your Browser](PASTE_YOUR_FIDDLE_URL_HERE)**
+👉 **[Run the PostgreSQL Engine Directly in Your Browser]https://www.db-fiddle.com/f/75GkZP37gm4V2EPVDTpDV5/0
 *(Click the "Run" button at the top of the interface to see the database create the environment, calculate statistics, and fire the logging triggers live).*
 
 ## 📊 Programmatic Proof of Pass Status
